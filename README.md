@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋! [smile](https://github.com/user-attachments/assets/11e32dc4-c497-493e-b1b3-7d98f131b52f)
+
 
 <!--
 **lustrNPL/lustrNPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
